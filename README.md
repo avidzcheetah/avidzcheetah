@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **combining AI and CySec for a secure cyberspace**
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **Cyber Security and Computer Engineering**
 
 - 📫 How to reach me **avidu@pm.me**
 
