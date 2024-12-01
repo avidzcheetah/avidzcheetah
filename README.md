@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Cyber Security and Computer Engineering**
 
-- 📫 How to reach me **avidu@pm.me**
+- 📫 Reach me via **avidu@pm.me**
 
 - ⚡ Fun fact **I am a cheetah, chasing a miracle through cyberspace!**
 
