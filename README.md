@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Avidu+Witharana;Computer+Engineering+undergraduate;IT+and+Cyber+Security+undergraduate;A+founder+of++SL+1st+CySec+Alliance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Avidu+Witharana;Computer+Engineering+undergraduate;IT+and+Cyber+Security+undergraduate)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avidzcheetah&label=Profile%20views&color=0e75b6&style=flat" alt="avidzcheetah" /> </p>
 
