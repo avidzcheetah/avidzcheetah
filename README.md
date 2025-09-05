@@ -1,26 +1,65 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Avidu+Witharana;Computer+Engineering+undergraduate;IT+and+Cyber+Security+undergraduate)](https://git.io/typing-svg)
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Avidu+Witharana;Computer+Engineering+Undergraduate;IT+%26+Cyber+Security+Explorer;AI+%2B+CyberSec+Enthusiast)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avidzcheetah&label=Profile%20views&color=0e75b6&style=flat" alt="avidzcheetah" /> </p>
-
-- 🔭 I’m currently working on **combining AI and CySec for a secure cyberspace**
-
-- 🌱 I’m currently learning **Cyber Security and Computer Engineering**
-
-- 📫 Reach me via **avidu@ieee.org**
-
-- ⚡ Fun fact **I am a cheetah, chasing a miracle through cyberspace!**
-
-<h3 align="left">Connect with me:</h3>
+<!-- Profile views counter -->
 <p align="left">
-<a href="https://linkedin.com/in/avidz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avidz" height="30" width="40" /></a>
-<a href="https://fb.com/avidzxv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avidzxv" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/avidzxv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="avidzxv" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=avidzcheetah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
+## 🚀 About Me
+- 🔭 Currently working on **AI + Cyber Security** to create a more secure cyberspace  
+- 🌱 Learning **Cyber Security** and **Computer Engineering**  
+- 📫 Reach me at: **avidu@ieee.org**  
+- ⚡ Fun fact: *"I am a cheetah, chasing a miracle through cyberspace!"*  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avidzcheetah&show_icons=true&locale=en&layout=compact" alt="avidzcheetah" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avidzcheetah&show_icons=true&locale=en" alt="avidzcheetah" /></p>
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/avidz" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" />
+  </a>
+  <a href="https://fb.com/avidzxv" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@avidzxv" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="40" width="40" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,react,nodejs,androidstudio,flutter,mysql,sqlite,tensorflow,arduino,linux,matlab" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avidzcheetah&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avidzcheetah&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avidzcheetah&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avidzcheetah&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+## 🎉 Fun Badge
+<p align="center">
+  <img src="https://img.shields.io/badge/CyberSec-Explorer-blue?style=for-the-badge&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Enthusiast-red?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-green?style=for-the-badge&logo=github" />
+</p>
