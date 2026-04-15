@@ -4,8 +4,8 @@
 <img src="./header_banner.png" alt="Avidu Witharana Header" width="100%">
 
 <!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;width=700&amp;height=100&amp;lines=🚀+Founder+@+Fuchsia+Labs;🔐+Cybersecurity+Enthusiast;🤖+AI+%2F+Machine+Learning+Builder;🐆+Fast.+Precise.+Always+Ahead." alt="Typing SVG" />
+<a href="https://github.com/avidzcheetah">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🚀+Founder+@+Fuchsia+Labs;🔐+Cybersecurity+Enthusiast;🤖+AI+%2F+Machine+Learning+Builder;🐆+Fast.+Precise.+Always+Ahead." alt="Typing SVG" />
 </a>
 
 <br/>
