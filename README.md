@@ -77,17 +77,7 @@ const avidu: Entrepreneur = {
 
 </div>
 
----
-
-## 🏆 &nbsp;Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=avidzcheetah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/avidzcheetah)
-
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=40&section=header"/>
 
 ## 🎯 &nbsp;Strategic Roadmap
 
@@ -148,6 +138,6 @@ mindmap
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Innovating%20the%20Future&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=150&section=footer&text=Innovating%20the%20Future&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
