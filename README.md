@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/avidzcheetah">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🚀+Founder+@+Fuchsia+Labs;🔐+Cybersecurity+Enthusiast;🤖+AI+%2F+Machine+Learning+Builder;🐆+Fast.+Precise.+Always+Ahead." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%F0%9F%9A%80+Founder+@+Fuchsia+Labs;%F0%9F%94%90+Cybersecurity+Enthusiast;%F0%9F%A4%96+AI+%2F+Machine+Learning+Builder;%F0%9F%90%86+Fast.+Precise.+Always+Ahead." alt="Typing SVG" />
 </a>
 
 <br/>
